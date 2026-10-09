@@ -11,6 +11,7 @@ Library: C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_genera
 --linker-options=PdbAltPath="PowerDescent-0.8.0_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Projet\PitRaid\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Projet\PitRaid\Library\Burst
 --output=C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -54,6 +55,7 @@ Library: C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_genera
 --linker-options=PdbAltPath="PowerDescent-0.8.0_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Projet\PitRaid\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Projet\PitRaid\Library\Burst
 --output=C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -97,6 +99,7 @@ Library: C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_genera
 --linker-options=PdbAltPath="PowerDescent-0.8.0_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Projet\PitRaid\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Projet\PitRaid\Library\Burst
 --output=C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -214,6 +217,7 @@ Library: C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_genera
 --linker-options=PdbAltPath="PowerDescent-0.8.0_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Projet\PitRaid\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Projet\PitRaid\Library\Burst
 --output=C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -333,6 +337,7 @@ Library: C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_genera
 --linker-options=PdbAltPath="PowerDescent-0.8.0_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Projet\PitRaid\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Projet\PitRaid\Library\Burst
 --output=C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -354,6 +359,7 @@ Library: C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_genera
 --linker-options=PdbAltPath="PowerDescent-0.8.0_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Projet\PitRaid\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Projet\PitRaid\Library\Burst
 --output=C:\Projet\PitRaid\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
